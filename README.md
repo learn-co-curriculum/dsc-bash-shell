@@ -2,7 +2,7 @@
 # The Bash Shell
 
 ## Introduction 
-When conducting data science (or programming in general), it’s helpful to get orientated with the command line, or bash shell. On mac computers, this is the terminal application. You've actually already seen some of this when working through how to download lessons from Learn and Github onto your local computer! The command line serves as a low-level interpreter through which you, the user, can send commands directly to the computer. As a computer user, you previously have probably sent commands to the computer through a graphical user interface (GUI) such as a web browser, text editor, photo editor, or any other of the myriad of computer programs now in existence. While the command line is initially daunting with its cryptic looking text, we will quickly see some of the many advantages it can have.
+When conducting data science (or programming in general), it’s helpful to get oriented with the command line, or bash shell. On mac computers, this is the terminal application. You've actually already seen some of this when working through how to download lessons from Learn and Github onto your local computer! The command line serves as a low-level interpreter through which you, the user, can send commands directly to the computer. As a computer user, you previously have probably sent commands to the computer through a graphical user interface (GUI) such as a web browser, text editor, photo editor, or any other of the myriad of computer programs now in existence. While the command line is initially daunting with its cryptic looking text, we will quickly see some of the many advantages it can have.
 
 ## Objectives
 You will be able to:
