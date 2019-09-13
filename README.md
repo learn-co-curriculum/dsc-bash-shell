@@ -12,7 +12,7 @@ You will be able to:
 * Make directories using mkdir
 
 ## Shells
-To start, open up your shell program. For mac, this is the terminal, and for Windows we recommend git bash. Note that the "command prompt" on Windows make look similar but is actually another language.
+To start, open up your shell program. For mac, this is the terminal, and for Windows we recommend git bash. Note that the "command prompt" on Windows may look similar but it is actually another language.
 
 ## Mac
 <img src="images/mac_terminal.png" width=600>
@@ -29,7 +29,7 @@ Shortcuts to change programs/applications:
 * Windows: (alt+tab)
 
 ## pwd
-Remember, **pwd** which stands for **print working directory**. This is essential to determine where you are within the file structure.  
+Remember, **pwd** stands for **print working directory**. This is essential to determine where you are within the file structure.  
 
 ## cd
 
