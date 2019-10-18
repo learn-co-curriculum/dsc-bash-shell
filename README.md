@@ -6,11 +6,8 @@ When conducting Data Science (or programming in general), it’s helpful to get 
 
 ## Objectives
 You will be able to:
-* Open up a bash shell 
-* Check the current working directory with `pwd` 
-* Navigate between directories using `cd` 
-* List files in the current directory using `ls` 
 
+- Navigate between directories using the Bash shell
 
 ## Shell
 To start, open up your shell program. For mac, this is the terminal, and for Windows we recommend git bash. Note that the "command prompt" on Windows may look similar but it is actually another language.
