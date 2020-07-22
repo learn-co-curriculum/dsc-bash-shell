@@ -22,8 +22,9 @@ To start, open up your shell program. For mac, this is the terminal, and for Win
 
 When going back and forth between this lesson and your shell, it is useful to either use split screen or to know the shortcuts to switch between applications on your computer. 
 
-Shortcuts to change programs/applications:
-* Mac: (cmd+tab)
+Shortcuts to change programs/applications:  
+
+* Mac: (cmd+tab)  
 * Windows: (alt+tab)
 
 ## pwd
