@@ -1,8 +1,7 @@
-
 # The Bash Shell
 
 ## Introduction 
-When conducting Data Science (or programming in general), it’s helpful to get oriented with the command line, or bash shell. On mac computers, this is the terminal application. You've actually already seen some of this when working through how to download lessons from Learn and GitHub onto your local computer! The command line serves as a low-level interpreter through which you, the user, can send commands directly to the computer. As a computer user, you previously have probably sent commands to the computer through a graphical user interface (GUI) such as a web browser, text editor, photo editor, or any other of the myriad computer programs now in existence. While the command line is initially daunting with its cryptic looking text, we will quickly see some of its advantages.
+When conducting Data Science (or programming in general), it’s helpful to get oriented with the command line, or bash shell. On mac computers, this is the terminal application. You've actually already seen some of this when working through how to download lessons from Learn and GitHub onto your local computer! The command line serves as a low-level interpreter through which you, the user, can send commands directly to the computer. As a computer user, you previously have probably sent commands to the computer through a graphical user interface (GUI) such as a web browser, text editor, photo editor, or any other of the myriad of computer programs now in existence. While the command line is initially daunting with its cryptic looking text, we will quickly see some of its advantages.
 
 ## Objectives
 You will be able to:
@@ -13,10 +12,10 @@ You will be able to:
 To start, open up your shell program. For mac, this is the terminal, and for Windows we recommend git bash. Note that the "command prompt" on Windows may look similar but it is actually another language.
 
 ## Mac
-<img src="images/mac_terminal.png" width=600>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/mac_terminal.png" width=600>
 
 ## Windows
-<img src="images/git_bash.png" width=600>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/git_bash.png" width=600>
 
 ## Workflow Hints
 
