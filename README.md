@@ -1,4 +1,3 @@
-
 # The Bash Shell
 
 ## Introduction 
@@ -13,10 +12,10 @@ You will be able to:
 To start, open up your shell program. For mac, this is the terminal, and for Windows we recommend git bash. Note that the "command prompt" on Windows may look similar but it is actually another language.
 
 ## Mac
-<img src="images/mac_terminal.png" width=600>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/mac_terminal.png" width=600>
 
 ## Windows
-<img src="images/git_bash.png" width=600>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/git_bash.png" width=600>
 
 ## Workflow Hints
 
